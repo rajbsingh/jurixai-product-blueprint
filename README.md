@@ -1,5 +1,14 @@
 # JurixAI Product Blueprint
 
+## Blueprint Documents
+
+- [Problem Statement](problem-statement.md)
+- [Target Users](target-users.md)
+- [MVP Scope](mvp-scope.md)
+- [Legal AI Workflows](legal-ai-workflows.md)
+- [Risk and Governance](risk-and-governance.md)
+- [Roadmap](roadmap.md)
+
 **JurixAI** is an AI Legal Assistant designed to help lawyers, SMEs, and legal teams draft, review, summarize, and understand legal documents faster using AI-powered workflows, risk flags, and trusted source-based outputs.
 
 > This repository is a public product blueprint. It does not contain confidential source code, private prompts, database design, client data, or investor-sensitive information.
